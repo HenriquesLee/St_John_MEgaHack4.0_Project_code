@@ -49,9 +49,6 @@ To promote freedom of speech, Whisper AI offers an anonymous blogging option. Us
 4. Install all required libraries using pip.
 5. Run `python manage.py migrate` to set up the database (ensure settings are configured correctly).
 
-## License
-
-This project is not open source. Please refer to the [license.txt](license.txt) for more information. Feel free to run and explore the functionality of Whisper AI on your system.
 
 ---
 
